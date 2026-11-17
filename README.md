@@ -1,4 +1,4 @@
-# Kestrel — a chess agent for the Chess Agent Competition
+# Kestrel - a chess agent for the Chess Agent Competition
 
 Kestrel is a pure-Python chess agent written for the Chess Agent Competition
 (30 s + 0.3 s per move, one CPU, 512 MiB, Python 3.12 with only the standard
