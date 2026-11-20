@@ -175,7 +175,7 @@ Measured on a 2-core machine. Scores are from Kestrel's side.
 |---|---|---|
 | Typical AI-written python-chess bot (uses PeSTO tables) | 10 s + 0.1 s | 19.5 / 20 |
 | Sunfish | 30 s + 0.3 s | 16 / 20 (+13 =6 −1) |
-| Hand-made tables vs the earlier PeSTO version (cost of compliance) | 10 s + 0.1 s | 19.5 / 60 (≈ −127 ± 97 Elo) |
+| Hand-made tables vs. the earlier PeSTO version (cost of compliance) | 10 s + 0.1 s | 19.5 / 60 (≈ −127 ± 97 Elo) |
 | Pawn structure + rook files + king shelter vs without | 10 s + 0.1 s | 33 / 60 (≈ +35 ± 90 Elo) |
 | Series memory vs a copycat clone (earlier build) | 10 s + 0.1 s | 67% vs 60% without |
 
