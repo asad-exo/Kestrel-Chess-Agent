@@ -72,7 +72,7 @@ uv run python kestrel-chess-agent/tests/bench_depth.py 6 kestrel-chess-agent/kes
 ```
 
 Each test takes an optional agent file as its first argument, so you can
-test a modified copy.
+test on a modified copy.
 
 ## Matches
 
